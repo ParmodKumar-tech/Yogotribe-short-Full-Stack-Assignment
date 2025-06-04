@@ -76,7 +76,7 @@
 <h3>Usage</h3>
 <p>Run the project with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">npm start
+<pre><code class="language-sh">npm run dev 
 </code></pre>
 <h3>Testing</h3>
 <p>Yogotribe-short-full-stack-assignment uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
