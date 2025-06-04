@@ -16,7 +16,6 @@
 <br>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&amp;logo=React&amp;logoColor=black" class="inline-block mx-1" style="margin: 0px 2px;">
 <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&amp;logo=Vite&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
-<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat&amp;logo=ESLint&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
 <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&amp;logo=Axios&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
 </div>
 <br>
@@ -29,7 +28,6 @@
 <li class="my-0"><a href="#prerequisites">Prerequisites</a></li>
 <li class="my-0"><a href="#installation">Installation</a></li>
 <li class="my-0"><a href="#usage">Usage</a></li>
-<li class="my-0"><a href="#testing">Testing</a></li>
 </ul>
 </li>
 </ul>
@@ -42,7 +40,6 @@
 <li class="my-0"><strong>⚙️ Frontend Configuration:</strong> Leverages React and Vite for a modern, high-performance development experience.</li>
 <li class="my-0"><strong>📊 Dynamic Content:</strong> Engages users with the RandomFact component, providing real-time data retrieval and interaction.</li>
 <li class="my-0"><strong>🔗 API Integration:</strong> Seamlessly connects to backend services for prime number checks and random facts, enhancing user experience.</li>
-<li class="my-0"><strong>🛠️ Linting and Best Practices:</strong> ESLint configuration ensures code quality and adherence to best practices, reducing bugs and improving maintainability.</li>
 <li class="my-0"><strong>☁️ Serverless Deployment:</strong> Vercel configuration allows for efficient scaling and management of backend services.</li>
 </ul>
 <hr>
@@ -78,11 +75,5 @@
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
 <pre><code class="language-sh">npm run dev 
 </code></pre>
-<h3>Testing</h3>
-<p>Yogotribe-short-full-stack-assignment uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
-<p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">npm test
-</code></pre>
-<hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
 <hr></div></div></div>
