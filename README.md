@@ -10,7 +10,6 @@
 <p><em>Built with the tools and technologies:</em></p>
 <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=flat&amp;logo=Express&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
 <img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=flat&amp;logo=JSON&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&amp;logo=Markdown&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=flat&amp;logo=npm&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&amp;logo=JavaScript&amp;logoColor=black" class="inline-block mx-1" style="margin: 0px 2px;">
 <br>
@@ -46,8 +45,10 @@
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
 <p>This project requires the following dependencies:</p>
-<ul class="list-disc pl-4 my-0">
+<ul class="list-disc pl-4 my-0"> 
 <li class="my-0"><strong>Programming Language:</strong> JavaScript</li>
+<li class="my-0"><strong>Frontend Tech:</strong> React</li>
+<li class="my-0"><strong>Backend Tech:</strong> Node.js</li>
 <li class="my-0"><strong>Package Manager:</strong> Npm</li>
 </ul>
 <h3>Installation</h3>
